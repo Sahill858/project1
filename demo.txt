@@ -1,3 +1,5 @@
 This is in master
 
 This is 2nd line from master
+
+This is 3rd line
